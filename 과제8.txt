@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <title>과제-김현석</title>
+  <style type="text/css">
+
+	img{float:left}
+	div{float:left; 
+	    margin-left:20px;}
+	h1{color:#ffcc66;
+	   font-size:30px;
+	   background-color:#e60000;
+	   border:2px solid black;
+	   margin-top:85px;}
+	p{color:#ffcc66;
+	  font-size:30px;
+	  background-color:#e60000;
+	  border:2px solid black;}
+	
+</style>
+ </head>
+ <body>
+
+  <img src="https://contents.lotteon.com/itemimage/_v000652/LM/88/01/06/26/36/84/6_/00/1/LM8801062636846_001_1.jpg/dims/resizef/720X720" 
+  width="300" height="420" border="" alt="">
+
+  <div>
+  <center><h1>Ghana</h1></center>
+  <p>가나 초콜릿은 1964년 2월에 롯데에서부터 
+     1975년에 롯데제과로 진출하도록 판매하고 있는 초콜릿의 한 종류이다.
+     롯데가 스위스 인 기술자 막스 브락크를 기용할 때 부터 제조·판매를 개시하였다.</p>
+  <a href="https://www.lotteon.com/m/product/LO1014175585?sitmNo=LO1014175585_1014175586&dp_infw_cd=SSTLD469903">구매하기</a>
+  
+  </div>
+  
+ </body>
+</html>

@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <title>과제-김현석</title>
+	<style type="text/css">
+	#q { margin-top:30px; 
+		 width: 700px; 
+		 height: 150px;
+		 border: 1px solid black;
+		 text-align:center;
+		 line-height:150px;
+		 font-size:50px;
+		 color:#ffcc00;
+		 
+	}
+
+	#w { margin-top:10px;
+		 float: left;
+		 width: 250px;
+		 height: 400px;
+		 border: 1px solid black;
+		 text-align:center;
+		 line-height:40px;
+		 font-size:22px;
+	}
+
+	#e { margin-top:10px; 
+		 margin-left:10px; 
+		 float: left; 
+		 width: 438px; 
+		 height: 400px;
+		 border: 1px solid black;
+		 text-align:center;
+		 line-height:27px;
+	}
+
+	#r { float: left; 
+	     margin-top:395px;}
+	#t { border:1px solid black; 
+	     background-color:#ff3333;
+	}
+	</style>
+</head>
+ <body>
+
+	<div id="q">
+		<img src="https://lh3.googleusercontent.com/proxy/1LQ53aWZV-o_czdIpMqnfnA7ccsEyWewneOdFS9xSrjKmD7MisOVGFBM7qK9jtUn8xsxLcoVmm5OkurzlL7u8hCYfftpTQqdC_mRusPtPZcxzcs1ZmJC" 
+		width="700" height="150" border="0" alt="">
+	</div>
+
+	<div id="w">
+		<p id="t" style="color:white;"><b>라이엇 게임즈의 대표작</b></p>
+		<img src="https://ww.namu.la/s/3f9849c1cc3f20e6319e09a57c0199d7c3e935a92918332b167e8ea05a52c986e0ddd9de092ea20cb101c6c282d32a4723b64630f848251963de03c62bfefce5c79e0bc8065929c88a51b883301c700637e23ab967519bb12e1b8e353545b6c35e8e6f0626821ebae4601f1ddfd7a0f9" 
+		width="100" height="95" border="0" alt="">
+
+		<img src="http://static.inven.co.kr/column/2019/06/18/news/i13574400095.png" 
+		width="100" height="95" border="0" alt="">
+
+		<img src="https://post-phinf.pstatic.net/MjAyMDAxMjBfMTcx/MDAxNTc5NTAzMzI1MzA4.Tlnm80cAlIrvknuQIN0rkQO31l7iz3BlkJu_F8Txis0g.G2KufsrUnsH1I2cZ17pL5a2vPNJf7tM4SO_OcdUEN20g.JPEG/Screenshot_2020-01-20_at_15.55.19.jpg?type=w1200" 
+		width="100" height="95" border="0" alt="">
+
+		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/League_of_Legends_Wild_Rift_logo.svg/1024px-League_of_Legends_Wild_Rift_logo.svg.png" 
+		width="100" height="95" border="0" alt="">
+
+		<img src="https://image.chosun.com/sitedata/image/202003/03/2020030302302_0.png" 
+		width="100" height="95" border="0" alt="">
+	</div>
+
+	<div id="e">
+		마크 메릴과 브렌든 벡이 2006년에 공동창업한 회사이며 유명 게임 리그 오브 레전드 개발사이기도 하다. 도타 올스타즈의 개발자였던 구인수를 영입해서 첫 작품인 리그 오브 레전드를 개발했고, 
+		출시 2개월만에 동접 10만 명을 달성했고 현재 세계에서 가장 많이 플레이하는 게임중 하나이며 매달 플레이하는 유저의 수가 1억명을 넘는다.
+		라이엇 게임즈와 게임 LoL의 성장 가능성을 발견한 중국 대기업 텐센트가 2011년부터 지분 50%이상을 인수, 2015년 12월에 완전히 인수하였다. 
+		이때 텐센트 측에서 경영간섭을 하지 않는다는 계약조건을 제시했으나 게임 내적으로 중국색채와 문화적 요소들이 늘어나고 있다. 
+		본사 법인은 여전히 캘리포니아 주에 소재하고 있다. 따라서 게임 자체의 개발, 업데이트 부분은 모두 라이엇 미국 본사가 100% 전적으로 담당하고 있는 것으로 알려져 있다.
+		현재 라이엇 게임즈는 유럽, 대한민국, 브라질, 상하이, 터키, 호주, 싱가포르 등 전세계 총 24개의 지사를 운영 중이다.
+	</div>
+	<p id="r">
+	<a href="https://www.riotgames.com/en">라이엇 게임즈 바로가기</a>
+	</p>
+ </body>
+</html>
